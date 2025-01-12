@@ -1,6 +1,6 @@
-# Hi there, I'm Pierre - aka [Maumau GD] 👋
+# Hi there, I'm Pierre Mauril Mafoya GUEDE - aka [Maumau GD] 👋
 
-I'm a Software Engineer, Developer!!
+I'm a Software Engineer, Fullstack Developer!!
 
 ## About me 🚀
 
