@@ -33,11 +33,11 @@ I'm a Software Engineer, Developer!!
 ## Connect with me 🤝
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pierremauril01@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-D14836?style=flat-square&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/pierre-mauril-mafoya-guede-6153ab201)
-[![X](https://img.shields.io/badge/-X-D14836?style=flat-square&logo=x&logoColor=blue)](https://www.linkedin.com/in/pierre-mauril-mafoya-guede-6153ab201)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-mauril-mafoya-guede-6153ab201)
+[![X](https://img.shields.io/badge/-X-D14836?style=flat-square&logo=x&logoColor=white)](https://www.linkedin.com/in/pierre-mauril-mafoya-guede-6153ab201)
 [![Phone](https://img.shields.io/badge/-Phone-green?style=flat-square&logo=phone&logoColor=white)](tel:+2290156115410)
 [![Phone](https://img.shields.io/badge/-Phone-green?style=flat-square&logo=phone&logoColor=white)](tel:+2290140151907)
-📍 132p, fignonhou, Abomey-Calavi
+- 📍 132p, fignonhou, Abomey-Calavi
 
 ## Education 🎓
 
