@@ -35,8 +35,9 @@ I'm a Software Engineer, Developer!!
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:pierremauril01@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-mauril-mafoya-guede-6153ab201)
 [![X](https://img.shields.io/badge/x-%230077B5.svg?&style=for-the-badge&logo=x&logoColor=white&labelColor=black&color=black)](https://x.com/maumau_gd)
-📞 +229 01 56 11 54 10
-📞 +229 01 40 15 19 07
+
+- 📞 +229 01 56 11 54 10
+- 📞 +229 01 40 15 19 07
 - 📍 132p, fignonhou, Abomey-Calavi
 
 ## Education 🎓
