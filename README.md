@@ -1,4 +1,4 @@
-# Hi there, I'm Pierre Mauril Mafoya GUEDE - aka [Maumau GD] 👋
+# Hi, I'm Pierre Mauril Mafoya GUEDE [Maumau GD] 😄
 
 I'm a Software Engineer, Fullstack Developer!!
 
