@@ -5,11 +5,9 @@ I'm a Software Engineer, Fullstack Developer!!
 ## About me 🚀
 
 - 💻 Passionate about creating innovative software solutions
-- 🌱 Currently working with Next.js and Laravel
+- 🌱 Currently working with Java, flutter, Angular and React
 - 👥 Looking to collaborate on exciting projects
-- 💭 Ask me about Laravel, Node.js, React, Angular and Vue.js
-- 📫 How to reach me: pierremauril01@gmail.com
-- ⚡ Fun fact: Enthusiastic about business management and software customization
+- 📫 mail: pierremauril01@gmail.com
 
 
 ## Languages and Tools 🛠️
