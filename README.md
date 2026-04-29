@@ -38,6 +38,7 @@ I'm a Software Engineer, Fullstack Developer!!
 
 - 📞 +229 01 56 11 54 10
 - 📞 +229 01 40 15 19 07
+- 📞 +241 0 65 37 12 88
 - 📍 132p, fignonhou, Abomey-Calavi
 
 ## Education 🎓
